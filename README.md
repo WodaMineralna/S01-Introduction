@@ -14,7 +14,6 @@ This project covers:
 - Node.js
 - JavaScript (ES6+)
 - Node.js Runtime
-- Build Tool - Node.js
 ## How to Run
 
 ```bash
